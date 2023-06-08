@@ -70,5 +70,4 @@ function act5_verify() {
     pp.showdescription("Calculations Verified!!", 3);
     show_panel(3);
 }
-activity5();
 //# sourceMappingURL=activity5.js.map
