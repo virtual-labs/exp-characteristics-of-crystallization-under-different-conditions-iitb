@@ -10,15 +10,15 @@ function activity5() {
     pp.showtitle("To study the characteristics of crystallization under different conditions", 3);
     pp.showdescription("Calculate the values using shown formulae", 3);
     let activity5_formulae = `
-        <p style="background-color: lightgreen; padding-left: 1%;">Weight of Alum dissolved at room temperature = 20</p>
+        <p style="background-color: lightgreen; padding-left: 1%;">Weight of Alum dissolved at room temperature X (gm) = ${w_of_alum_dissolved_rtemp} </p>
 
-        <p style="background-color: yellow; padding-left: 1%;">Weight of Alum dissolved at 60 C temperature = 63.08</p>
+        <p style="background-color: yellow; padding-left: 1%;">Weight of Alum dissolved at 60 C temperature Y (gm) = ${w_of_alum_dissolved_60}</p>
 
-        <p style="background-color: bisque; padding-left: 1%;">Weight of Crystals with seeding effect A(gm) = 2.861</p>
+        <p style="background-color: bisque; padding-left: 1%;">Weight of Crystals with seeding effect A(gm) = ${w_of_crystal_with_seeding}</p>
 
-        <p style="background-color: lightgrey; padding-left: 1%;">Weight of Crystals without seeding effect B(gm) =  18.7</p>
+        <p style="background-color: lightgrey; padding-left: 1%;">Weight of Crystals without seeding effect B(gm) =  ${w_of_crystal_without_seeding}</p>
 
-        <p style="background-color: skyblue; padding-left: 1%;">Amount of Alum powder added for the seeding effect A'(gm) = 3.0</p>
+        <p style="background-color: skyblue; padding-left: 1%;">Amount of Alum powder added for the seeding effect A'(gm) = ${amt_of_alum}</p>
 
     `;
     show_panel(3);
