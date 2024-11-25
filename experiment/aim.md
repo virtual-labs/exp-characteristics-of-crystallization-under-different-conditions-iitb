@@ -1,1 +1,3 @@
-### Aim of the experiment
+## Aim
+
+To study the characteristics of crystallization under different conditions

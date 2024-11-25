@@ -1,1 +1,1 @@
-## Experiment name
+## To study the characteristics of crystallization under different conditions
