@@ -1,0 +1,3 @@
+## Aim
+
+To study the characteristics of crystallization under different conditions
